@@ -10,7 +10,7 @@ Backend API for IP Geolocation assessment built with Node.js and Express.
 
 ## Setup
 1. Install dependencies: `npm install`
-2. Setup database: `npm run setup`
+2. Setup database: `npm run seed`
 3. Start server: `npm start`
 
 ## API Endpoints
@@ -22,4 +22,4 @@ Backend API for IP Geolocation assessment built with Node.js and Express.
 
 ## Demo Credentials
 - Email: test@example.com
-- Password: password123
+- Password: password123 
